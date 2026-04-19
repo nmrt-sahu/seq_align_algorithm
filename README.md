@@ -1,2 +1,2 @@
 # seq_align_algorithm
-Simple and easy code of popular algorithem for small sequences alignment. 
+Simple and easy code of a popular algorithm for small sequence alignment. 
