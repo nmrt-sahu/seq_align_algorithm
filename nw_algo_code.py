@@ -1,5 +1,5 @@
 import numpy as np
-input = open("/content/lab4_input.fasta", "r")
+input = open("/input/nw_input.fasta", "r")
 reads = input.readlines()
 seq = [line.strip() for line in reads if not line.startswith(">")]
 
