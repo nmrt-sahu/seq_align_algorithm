@@ -1,0 +1,8 @@
+ACG
+CGA
+CGC
+CGT
+GAC
+GCG
+GTA
+TCG
