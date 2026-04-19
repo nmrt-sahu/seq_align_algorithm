@@ -1,5 +1,5 @@
 # Read input
-#input = open("/content/lab2_input.txt.txt", "r")
+#input = open("/input/greedy_input.txt", "r")
 #reads = input.readlines()
 #reads = [read.strip() for read in reads]
 
